@@ -3,7 +3,9 @@ I'm Vishal 👨‍💻
 I am fullstack developer from india 🇮🇳 I am currently working in Barclays.
 
 Currently I am working with ....
+<div style="{{widht:100px}}">
 ![image](https://github.com/VishalBhrdwaj/VishalBhrdwaj/assets/88134443/b0f4dc14-7b74-4890-9170-6af81a1abe9e)
+</div>
 
 
 
