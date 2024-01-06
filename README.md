@@ -6,7 +6,7 @@ https://www.linkedin.com/in/vishalbhardwaj820/
 -->
 
 # 💫 About Me:
-🔭 **I’m currently working on:**  <br>Developing the frontend Application.<br><br> 🌱 **I’m currently learning:**  <br>Nextjs and TypeScript <br><br>🧑‍💻 **What i have learnt :**  <br>JavaScript, React js, Node.js ,Appwrite, MongoDB<br><br>⚡ **Fun fact:**  <br>I love to Play PC games mostly Volarant 😄
+🔭 **I’m currently working on:**  <br>Developing the frontend Application.<br><br> 🌱 **I’m currently learning:**  <br>Nextjs and TypeScript <br><br>🧑‍💻 **What i have learnt :**  <br>JavaScript, React js, Node.js ,Appwrite, Express JS ,MongoDB, Tailwind CSS<br><br>⚡ **Fun fact:**  <br>I love to Play PC games mostly Volarant 😄
 
 
 ## 🌐 Socials:
